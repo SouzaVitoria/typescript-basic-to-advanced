@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc-init": "tsc --watch",
-    "start": "npx ts-node src/index.ts"
+    "start": "npx ts-node src/intermediate/operator-non.ts"
   },
   "repository": {
     "type": "git",
