@@ -1,0 +1,26 @@
+{
+  "name": "typescript-basic-to-advanced",
+  "version": "1.0.0",
+  "description": "Typescript from Basic to Advanced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc-init": "tsc --watch",
+    "start": "npx ts-node src/intermediate/operator-non.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouzaVitoria/typescript-basic-to-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouzaVitoria/typescript-basic-to-advanced/issues"
+  },
+  "homepage": "https://github.com/SouzaVitoria/typescript-basic-to-advanced#readme",
+  "dependencies": {
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
